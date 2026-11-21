@@ -19,4 +19,15 @@ colour. Hold the touch for a moment and the whole octopus camouflages.
 | G | Toggle goggles |
 | R | Reset tentacles and colour |
 
+## VR (Meta Quest 3)
+
+Open the link in the Quest browser and press **Enter VR**.
+
+| Control | Action |
+|---|---|
+| Controllers | Each one steers a tentacle; reach out to touch things |
+| Left thumbstick | Swim where you're looking |
+| Right thumbstick | Turn (left/right), rise/sink (up/down) |
+| A / X button | Recentre your view inside the octopus |
+
 Built with Blender and Godot 4.7 (web export).
